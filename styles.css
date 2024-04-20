@@ -13,6 +13,7 @@ body {
     padding: 0;
     background-image: url(./Imagens/wallpaper.jpeg);
     background-repeat: unset;
+    i
 }
 
 table {
@@ -45,8 +46,8 @@ td {
     border-radius: 10px;
 }
 .tamanhotabelaCampeonatoPilotos{
-    padding-left: 40px;
-    padding-right: 40px;
+    padding-left: 14px;
+    padding-right: 32px;
     overflow: hidden;
     border-radius: 10px;
 }
@@ -89,13 +90,13 @@ td {
 .titulo {
     text-align: center;
     text-transform: uppercase;
-    color: #FF0100;
+    color: #ffffff;
 }
 
 .CampeonatoPilotos {
     position: absolute;
     padding-top: 100px;
-    padding-left: 20px;
+    padding-left: 210px;
     margin: 0 auto;
     overflow: hidden;
     border-radius: 10px;
@@ -122,8 +123,8 @@ td {
 .PilotoseEquipes {
     position: absolute;
     padding-top: 100px;
-    padding-left: 1030px;
-    width: 800px;
+    padding-left: 1290px;
+    width: auto;
     margin: 0 auto;
     overflow: hidden;
     border-radius: 10px;
@@ -132,17 +133,18 @@ td {
 .Construtores {
     position: absolute;
     padding-top: 100px;
-    padding-left: 350px;
+    padding-left: 570px;
     width: 800px;
     margin: 0 auto;
      overflow: hidden;
     border-radius: 10px;
+
 }
 
 .Pontuacao {
     position: absolute;
     padding-top: 100px;
-    padding-left: 680px;
+    padding-left: 930px;
     margin: 0 auto;
     overflow: hidden;
     border-radius: 10px;
@@ -151,7 +153,7 @@ td {
 .bahrein {
     position: absolute;
     padding-top: 500px;
-    padding-left: 20px;
+    padding-left: 210px;
     margin: 0 auto;
     border-radius: 10px;
     
@@ -168,7 +170,7 @@ td {
 .ArabiaSaudita {
     position: absolute;
     padding-top: 500px;
-    padding-left: 350px;
+    padding-left: 570px;
     margin: 0 auto;
     border-radius: 10px;
     overflow: hidden;
@@ -184,7 +186,7 @@ td {
 
 .Australia {
     position: relative;
-    padding-left: 330px;
+    padding-left: 360px;
     bottom: 392px;
     margin: 0 auto;
     border-radius: 10px;
@@ -193,9 +195,29 @@ td {
 
 .posaustralia {
     position: absolute;
-    padding-top: 20px;
-    padding-left: 330px;
+    padding-top: 11px;
+    padding-left: 360px;
     bottom: 42px;
     margin: 0 auto;
 }
 
+.imgfia {
+    float: left;
+    width: 100px;
+    height: 60px;
+    position: absolute;
+    padding-top: 10px;
+    padding-left: 20px;
+}
+
+.imgf1 {
+    width: 120px;
+    height: 90px;
+    position: absolute;
+    padding-left: 1780px;
+}
+
+.bandeira{
+    width: 10px;
+    height: 5px;
+}
